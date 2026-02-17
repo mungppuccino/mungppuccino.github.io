@@ -22,8 +22,8 @@ description: >- # used by seo meta and the atom feed
   Hello. My major is software.
 
 # Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+# E.g. 'https://mungppuccino.github.io', note that it does not end with a '/'.
+url: "https://mungppuccino.github.io"
 
 github:
   username: mungppuccino # change to your GitHub username
