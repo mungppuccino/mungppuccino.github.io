@@ -86,7 +86,7 @@ public class printInfo {
 		String actor [] = {"박지훈","유해진"};
 		int price = 14000;
 		int qty = 2;
-		int total = price * qty;
+		int total = price*qty;
 		System.out.printf("영화 이름: %s\n",movieName);
 		System.out.printf("영화 배우: ");
 		int i;
