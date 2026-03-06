@@ -98,9 +98,9 @@ public class printInfo {
 			}
 		}
 		System.out.println();
-		System.out.printf("영화 가격: %s\n",df.format(price));
-		System.out.printf("총 수량: %d\n", qty);
-		System.out.printf("총 가격: %s\n", df.format(total));
+		System.out.printf("티켓 가격: %s\n",df.format(price));
+		System.out.printf("티켓 수량: %d\n", qty);
+		System.out.printf("티켓 총 가격: %s\n", df.format(total));
 	}
 }
 ```
