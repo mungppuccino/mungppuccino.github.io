@@ -75,7 +75,7 @@ DecimalFormat은 정해진 자릿수보다 더 많은 소수점이 들어오면 
 
 
 
-## 예제 문제
+# 예제 문제
 ```java
 package proj0306_1;
 import java.text.DecimalFormat;
